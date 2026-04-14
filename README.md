@@ -1,4 +1,4 @@
-# **Active Directory Audit & Remediation Tool**
+# **Azure Entra ID Audit & Remediation Tool**
 
 A lightweight Python automation utility that scans Active Directory account data, highlights stale or misconfigured accounts, and generates a ready-to-use PowerShell remediation script. Designed for rapid audits (access reviews), security hygiene, and improving offboarding completeness.
 
