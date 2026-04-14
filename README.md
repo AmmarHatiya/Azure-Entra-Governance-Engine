@@ -1,4 +1,4 @@
-# **Azure Entra ID Audit & Remediation Tool**
+# **Identity Governance & Entra ID Security Engine**
 
 A lightweight Python automation utility that scans Entra ID account data, highlights stale or misconfigured accounts, and generates a ready-to-use PowerShell remediation script. Designed for rapid audits (access reviews), security hygiene, and improving offboarding completeness.
 
