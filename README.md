@@ -1,13 +1,12 @@
 # **Identity Governance & Entra ID Security Engine**
 
-A lightweight Python automation utility that scans Entra ID account data, highlights stale or misconfigured accounts, and generates a ready-to-use PowerShell remediation script. Designed for rapid audits (access reviews), security hygiene, and improving offboarding completeness.
+Recapture a share of the [$30B lost annually](https://ramp.com/blog/unused-software-subscriptions) to 'ghost' licenses by automating the detection of stale, over-privileged, and leak-prone accounts. 
 
 ---
 
 ## **Overview**
 
-Organizations often automate parts of onboarding/offboarding, but gaps can persist. These include stale enabled accounts, disabled users still consuming licenses, or privileged accounts with no recent activity.
-This tool provides a fast, actionable way to surface these issues and standardize cleanup.
+A lightweight Python automation utility that scans Entra ID account data, highlights stale or misconfigured accounts, and generates a ready-to-use PowerShell remediation script. Enterprise-ready, and designed for rapid audits (access reviews), security hygiene, and improving offboarding completeness. 
 
 ---
 
