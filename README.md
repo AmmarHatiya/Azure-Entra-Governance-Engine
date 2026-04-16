@@ -3,7 +3,7 @@
 Recapture a share of the [$30B lost annually](https://ramp.com/blog/unused-software-subscriptions) to 'ghost' licenses by automating the detection of stale, over-privileged, and leak-prone accounts. 
 
 ---
-
+![](./assets/hero.png)
 ## **Overview**
 
 A lightweight Python automation utility that scans Entra ID account data, highlights stale or misconfigured accounts, and generates a ready-to-use PowerShell remediation script. Enterprise-ready, and designed for rapid audits (access reviews), security hygiene, and improving offboarding completeness. 
